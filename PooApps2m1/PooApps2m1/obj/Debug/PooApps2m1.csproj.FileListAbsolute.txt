@@ -1,0 +1,24 @@
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\bin\Debug\PooApps2m1.exe.config
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\bin\Debug\PooApps2m1.exe
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\bin\Debug\PooApps2m1.pdb
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.Form1.resources
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.FrmDepreciacion.resources
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.FrmMdi.resources
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.Properties.Resources.resources
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.csproj.GenerateResource.cache
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.exe
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.pdb
+C:\Users\Sistemas-05\source\repos\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.csprojAssemblyReference.cache
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\bin\Debug\PooApps2m1.exe.config
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\bin\Debug\PooApps2m1.exe
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\bin\Debug\PooApps2m1.pdb
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.csprojAssemblyReference.cache
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.Form1.resources
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.FrmDepreciacion.resources
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.FrmMdi.resources
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.Properties.Resources.resources
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.csproj.GenerateResource.cache
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.csproj.CoreCompileInputs.cache
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.exe
+C:\Users\jaguilar\Documents\Proyectos C#\PooApps2m1\PooApps2m1\obj\Debug\PooApps2m1.pdb
